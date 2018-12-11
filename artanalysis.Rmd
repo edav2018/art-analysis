@@ -3,8 +3,8 @@ title: 'Final Project'
 author: "Shreya Chaganti \n Mert Ketenci \n Victor Allan"
 date: "10 December 2018"
 output:
-  pdf_document: default
   html_document:
+  pdf_document: default
   df_print: paged
 ---
 
@@ -54,7 +54,14 @@ Patterns in museum:
 Geographic Patterns:  
 -From which countries artworks came from?  
 
-In this project, each team member wanted to be involved in every aspect of the project rather than dividing the work. Thus, we all worked on each EDA, cleaning data and preparing project equally and met on a reqular basis to do so.
+In this project, each team member wanted to be involved in every aspect of the project rather than dividing the work. Thus, we all worked on each EDA, cleaning data and preparing project equally and met on a reqular basis to do so.  
+For our github repository, please visit:  
+https://github.com/edav2018/art-analysis  
+For our general data cleaning script, please visit:  
+https://github.com/edav2018/art-analysis/blob/master/art_scrape.py  
+For our data cleaning script to adjust NA and NULL values:  
+https://github.com/edav2018/art-analysis/blob/master/DataClean.py  
+For our data cleaning script for map section, please visit:   https://github.com/edav2018/art-analysis/blob/master/data_cleaning3.ipynb  
 
 #2. Description of Data
 
